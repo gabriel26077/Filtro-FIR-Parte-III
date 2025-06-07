@@ -12,7 +12,7 @@ Para executar os scripts e notebooks deste repositório, siga os passos abaixo:
 
 2.  **Clonar o Repositório:** Abra um terminal ou prompt de comando e clone este repositório para o seu computador:
     ```bash
-    git clone [https://github.com/gabriel26077/Filtro-FIR-Parte-III](https://github.com/gabriel26077/Filtro-FIR-Parte-III)
+    git clone https://github.com/gabriel26077/Filtro-FIR-Parte-III
     cd Filtro-FIR-Parte-III
     ```
 
